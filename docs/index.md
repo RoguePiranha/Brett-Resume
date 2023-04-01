@@ -1,34 +1,34 @@
 ---
 layout: cv
-title: Brett Banner's
+title: Brett Banner's Resume
 ---
+
 # Brett Banner
+
 Data Analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://github.com/bmbanner/mdresume">Data Science Program</a>
+<a href="datascience@byui.edu">datascience@byui.edu</a> <!-- Add your own email here -->
+| <a href="https://github.com/bmbanner/mdresume">Data Science Program</a> <!-- Change this to a name for your repository -->
 | <a href="https://www.linkedin.com/in/brett-banner/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
 `Expected 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+
+**Brigham Young University - Idaho**, Rexburg, ID
 
 - Full academic scholarship 3.95 Major GPA
--Completed several research and analytical classes
-
+- Completed several research and analytical classes
 
 ## Related Experience
 
 ### Course Specialist Intern
 
 `Apr 2021 - Jul 2021`
-__Stukent, INC.__, Rexburg, ID
+
+**Stukent, INC.**, Rexburg, ID
 
 - Worked to build relationships with and solve teaching problems for hundreds of professors, driving more than $14,000 in revenue for the company
 - Advised professors in selecting courseware/simulations best suited for their courses
@@ -37,7 +37,8 @@ __Stukent, INC.__, Rexburg, ID
 ### Transportation and Logistics Specialist
 
 `May 2022 - Aug 2022`
-__Holland America / Princess Cruises__, Alaska
+
+**Holland America / Princess Cruises**, Alaska
 
 - Managed safe and timely transportation of thousands of guests over the summer
 - Counseled with supervisors on transportation routes frequently
@@ -46,19 +47,20 @@ __Holland America / Princess Cruises__, Alaska
 ### Academic Advisor and TA
 
 `Oct 2021 - Apr 2022`
-__BYU-Idaho__, Rexburg, Idaho
 
-- Exercised meticulous attention to detail in grdint all assignments of 15 students for the semester
+**BYU-Idaho**, Rexburg, Idaho
+
+- Exercised meticulous attention to detail in grading all assignments of 15 students for the semester
 - Provided feedback to students to strengthen their email marketing skills
-
 
 ## Service and Work History
 
 `2018-2020`
-__Service Missionary__, Alaska
+
+**Service Missionary**, Alaska
 
 - Booked over 40 flights for associates and coordinated 190 travel itineraries every 6 weeks
-- Doubled the standard KPS's as a result of directing multiple teams of associates to use more effective approaches in teaching
+- Doubled the standard KPS's as a result of directing multiple teams of associates to use more effective approaches in teaching <!-- It's unclear what KPS is, I assume it's like KPI. -->
 
 ## Analytical Skills and Technical Competencies
 
@@ -67,9 +69,6 @@ __Service Missionary__, Alaska
 - Advanced Excel Functions
 - Dashboard programs like Power BI and Tableau
 
-
 <!-- ### Footer
 
 Last updated: 4/1/2023 -->
-
-
